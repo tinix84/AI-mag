@@ -1,3 +1,5 @@
+> **Note:** This is a reference fork. The original upstream repository is the actively maintained version. This fork is kept for personal reference and is not actively developed.
+
 # AI-mag: Inductor Modeling and Design with FEM/ANN
 
 ![license - BSD](https://img.shields.io/badge/license-BSD-green)
